@@ -32,9 +32,9 @@
                 <key>gutterForeground</key>
                 <string>#ffffff</string>
                 <key>guide</key>
-                <string>#222222</string>
+                <string>#656566</string>
                 <key>activeGuide</key>
-                <string>#ffffff</string>
+                <string>#656566</string>
             </dict>
         </dict>
         <dict>
